@@ -1,0 +1,273 @@
+body{
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;    
+}
+.sec{
+  
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.startBtn{
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 4px;
+    background-color: rgb(235, 125, 75);
+    border: 2px outset rgb(221, 113, 63); ;
+    margin-top: 3%;
+    margin-left: 42%;
+    color: white;
+    margin-right: auto;
+   
+    margin-bottom: 7%;
+    font-family: 'Titillium Web', sans-serif;
+    transition: .3s;
+}
+.startBtn:hover{
+  background-color: #cc6633;
+  border-color:#cc6633 ;
+  transition: .3s;
+}
+.mainSegment{
+    background-color: #996699;
+    color: white;
+    padding-bottom: 10%;
+    
+    
+}
+.btn-group{
+    border-style: solid;
+    border-color: #996699; 
+    background-color:#996699;
+    color:white;
+    
+
+    -webkit-transition: All 0.5s ease;
+    -moz-transition: All 0.5s ease;
+    -o-transition: All 0.5s ease;
+    -ms-transition: All 0.5s ease;
+    transition: All 0.5s ease;
+
+    
+}
+.logo{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 3em;
+
+}
+
+.btn-group:hover{
+   background-color: #663366;
+}
+p{
+    text-align: center;
+    font-size: 2em;
+}
+.firstText{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.secondSegment{
+
+    background-color: #00cc99;
+    color: white;
+    padding-bottom: 10%;
+
+      
+}
+.line {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.149;
+    position: absolute;
+    left:47%;
+    right: 50%;
+  }
+.line2{
+    background-color: rgb(189, 209, 223);
+    opacity: 0.749;
+    position: absolute;
+    left:47%;
+    right: 50%;
+  }
+h1{
+    margin: 0; 
+    text-align: center;
+    padding-top: 10%; 
+}
+
+.servText{
+    margin-left: 26%;
+    margin-right: 25%;
+    font-size: 18px;
+    font-weight: 300;
+}
+.flagIcon{
+    margin-top:3%;
+    width: 30%;
+    height: 30%;
+}
+
+.pencilIcon{
+    margin-top:3%;
+    width: 50%;
+    height: 50%;
+}
+
+.gearsIcon{
+    margin-top:3%;
+    width: 50%;
+    height: 50%;
+}
+
+.rocketIcon{
+    margin-top:3%;
+    width: 30%;
+    height: 30%;
+}
+
+.tbl{
+  margin: auto;
+  margin-top: 3%;
+  width: 900px;
+  border-spacing: 0px 20px;
+  text-align: center;
+  font-size: 24px;
+
+}
+.desText{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 16px;
+    font-weight: 300;
+}
+tr{
+    margin-bottom: 3%;
+}
+.thirdSegment{
+    background-color: #e7f1f8;
+    color: #3c4761;
+    padding-bottom: 10%;
+}
+
+.tbl2{
+    color:#3c4761 ;
+    margin: auto;
+    margin-top: 3%;
+    width: 900px;
+    border-spacing: 0px 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.links{
+    color: #48c1e9;
+    text-decoration-line: none;
+    font-size: 16px;
+    font-weight: 300;
+}
+.fourthSegment{
+    background-color: white;
+    color: #3c4761;
+    padding-bottom: 10%;
+}
+.tbl3{
+
+    color:#3c4761 ;
+    margin: auto;
+    margin-top: 3%;
+    width: 900px;
+    border-spacing: 0px 20px;
+    text-align: center;
+    font-size: 24px;
+}
+.grText{
+    font-size: 24px;
+    font-weight: bold;
+}
+.line3{
+    background-color: rgb(229, 195, 127);
+    position: absolute;
+    left:47%;
+    right: 50%;
+  }
+.fifthSegment{
+    background-color: #ffdd99;
+    color: #393939;
+    padding-bottom: 10%;
+}
+.btn-group2{
+
+    font-size: 18px;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: #ebc985; 
+    background-color: rgba(0, 0, 0, 0.078);
+    color: rgb(57, 57, 57);
+    font-family: 'Titillium Web', sans-serif;
+    transition: .3s;
+}
+.btn-group2:focus{
+    background-color: white;
+    border-color: white;
+    transition: .3s;
+}
+.centBtn{
+    text-align: center;
+}
+.tbl4{
+    padding-top: 3%;
+    margin: auto;
+    border-spacing: 10px;
+}
+.loadBtn{
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 4px;
+    background-color:#17c2a4;
+    border: 2px outset #17c2a4;
+    margin-top: 5%;
+    margin-left: 42%;
+    color: white;
+    margin-right: auto;
+   
+    font-family: 'Titillium Web', sans-serif;
+    transition: .3s;
+}
+.loadBtn:hover{
+    background-color:#1faf95 ;
+    border-color: #17c2a4;
+}
+.sixthSegment{
+    background-color: #d74680;
+    color: white;
+    padding-bottom: 10%;
+}
+.line3 {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.149;
+    position: absolute;
+    left:47%;
+    right: 50%;
+}
+.feedTbl{
+    width: 900px;
+    margin: auto;
+    padding-top: 3%;
+    border-spacing: 5px 30px;
+}
+.feedNames , tr , td{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+    
