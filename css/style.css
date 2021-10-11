@@ -110,8 +110,8 @@ h1{
 }
 .flagIcon{
     margin-top:3%;
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
 }
 
 .pencilIcon{
@@ -128,15 +128,15 @@ h1{
 
 .rocketIcon{
     margin-top:3%;
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
 }
 
 .tbl{
   margin: auto;
   margin-top: 3%;
   width: 900px;
-  border-spacing: 0px 20px;
+  border-spacing: 25px 0px;
   text-align: center;
   font-size: 24px;
 
@@ -263,11 +263,3 @@ tr{
     padding-top: 3%;
     border-spacing: 5px 30px;
 }
-.feedNames , tr , td{
-    text-align: left;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-}
-    
